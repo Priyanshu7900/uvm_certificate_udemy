@@ -1,6 +1,6 @@
 # Verification Series Part 3 - UVM Essentials
 
-I successfully completed the **"UVM for Verification - Part 1:
+I successfully completed the **"UVM for Verification - Part 3:
 Fundamentals"** course on Udemy, which provided a strong foundation in
 **Universal Verification Methodology (UVM)** concepts. The course
 covered **UVM testbench architecture, sequence items, sequencers,

@@ -1,4 +1,4 @@
-# Verification Series Part 1 - UVM Essentials
+# Verification Series Part 3 - UVM Essentials
 
 I successfully completed the **"UVM for Verification - Part 1:
 Fundamentals"** course on Udemy, which provided a strong foundation in
